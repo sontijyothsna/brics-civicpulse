@@ -89,8 +89,8 @@ CATEGORY_KEYWORDS = {
 }
 
 URGENCY_WORDS = {
-    high: ["ambulance", "pregnant", "emergency", "unsafe", "completely", "unusable", "sick", "drop out"],
-    med: ["broken", "poor", "no ", "not working", "insufficient", "leaking"],
+        "high": ["ambulance", "pregnant", "emergency", "unsafe", "completely", "unusable", "sick", "drop out"],
+    "med": ["broken", "poor", "no ", "not working", "insufficient", "leaking"],
 }
 
 def extract_entities(text: str, language: str = "en") -> dict:
