@@ -1,0 +1,7 @@
+location_id,district,state,category,infrastructure_score,access_score,population,latitude,longitude
+LOC-GUN-01,Guntur,Andhra Pradesh,road,28,32,28500,16.3067,80.4365
+LOC-GUN-02,Guntur,Andhra Pradesh,education,45,48,8200,16.3200,80.4450
+LOC-NAG-01,Nagpur,Maharashtra,water,35,30,12400,21.1458,79.0882
+LOC-SIT-01,Sitapur,Uttar Pradesh,healthcare,22,25,31200,27.5616,80.6820
+LOC-IND-01,Indore,Madhya Pradesh,sanitation,40,38,15600,22.7196,75.8577
+LOC-SIT-02,Sitapur,Uttar Pradesh,digital,30,28,9800,27.5700,80.6900

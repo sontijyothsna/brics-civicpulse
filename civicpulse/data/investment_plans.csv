@@ -1,0 +1,6 @@
+project_id,location,district,state,category,status,investment_amount_cr,planned_year,notes
+INV-001,Highway widening,Guntur,Andhra Pradesh,road,planned,45.0,2027,Main NH stretch only – no village roads
+INV-002,Water treatment plant,Nagpur,Maharashtra,water,under_construction,28.5,2026,City core only
+INV-003,District hospital upgrade,Sitapur,Uttar Pradesh,healthcare,planned,62.0,2027,District HQ – no PHC/CHC coverage
+INV-004,Smart city sanitation,Indore,Madhya Pradesh,sanitation,ongoing,18.0,2026,Selected wards only
+INV-005,Digital classroom pilot,Guntur,Andhra Pradesh,education,planned,4.2,2027,5 schools only
