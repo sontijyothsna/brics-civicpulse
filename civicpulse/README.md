@@ -41,15 +41,6 @@ Open http://localhost:8501
 
 ---
 
-## Deploy to Streamlit Community Cloud (Public Link)
-
-1. Push this folder to a **public** GitHub repository  
-2. Go to [share.streamlit.io](https://share.streamlit.io)  
-3. Connect the repo, set main file path to `app.py`  
-4. Deploy → you receive a public URL (e.g. `https://civicpulse-xxxx.streamlit.app`)
-
----
-
 ## Project Structure
 
 ```
